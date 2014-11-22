@@ -1,10 +1,10 @@
 /*========== B A C K G R O U N D    S K I N S =============*/
 
 ::-moz-selection {
- background: #a0ce4e;
+ background: #38b449;
 }
 ::selection {
-	background: #a0ce4e;
+	background: #38b449;
 }
 
 nav.colored, nav.light.colored,
@@ -39,18 +39,18 @@ nav.colored, nav.light.colored,
 .team-member:hover .team-desc,
 .service-box .service-icon,
 .modal .close {
-	background-color: #a0ce4e;
+	background-color: #38b449;
 }
 
 /*========== B O X   S H A D O W    S K I N S =============*/
 
 .title h1,
 .service-box .service-icon {
-	box-shadow:0px 0px 0px 3px #a0ce4e;
+	box-shadow:0px 0px 0px 3px #38b449;
 }
 
 .tab a.selected {
-    box-shadow: 0px -3px 0px 0px #a0ce4e;
+    box-shadow: 0px -3px 0px 0px #38b449;
 }
 
 
@@ -75,7 +75,7 @@ nav.dark .main-menu li.active a,
 .pages li a:hover,
 .home3 .slabtextdone .slabtext.second-child,
 .service-box:hover .service-icon {
-	color:#a0ce4e;
+	color:#38b449;
 }
 
 
@@ -91,18 +91,18 @@ nav.dark .main-menu li.active a,
 blockquote p,
 .pullquote.align-right,
 .pullquote.align-left {
-	border-color: #a0ce4e;
+	border-color: #38b449;
 }
 
 
 /*========== H O M E,  C O L O R   B L O C K    S K I N S =============*/
 .home-gradient, .color-block {
-	background-color: #a0ce4e;
-	background: -moz-radial-gradient(center center, circle cover, #a0ce4e 0%, #7DB41A 100%);
-	background: -webkit-radial-gradient(center center, circle cover, #a0ce4e 0%, #7DB41A 100%);
-	background: -o-radial-gradient(center center, circle cover, #a0ce4e 0%, #7DB41A 100%);
-	background: -ms-radial-gradient(center center, circle cover, #a0ce4e 0%, #7DB41A 100%);
-	background: radial-gradient(center center, circle cover, #a0ce4e 0%, #7DB41A 100%);	
+	background-color: #38b449;
+	background: -moz-radial-gradient(center center, circle cover, #38b449 0%, #7DB41A 100%);
+	background: -webkit-radial-gradient(center center, circle cover, #38b449 0%, #7DB41A 100%);
+	background: -o-radial-gradient(center center, circle cover, #38b449 0%, #7DB41A 100%);
+	background: -ms-radial-gradient(center center, circle cover, #38b449 0%, #7DB41A 100%);
+	background: radial-gradient(center center, circle cover, #38b449 0%, #7DB41A 100%);	
 }
 
 
