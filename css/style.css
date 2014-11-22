@@ -139,6 +139,9 @@ a {
 .highlight {
 	color: #FFD600;
 }
+.stronger {
+	font-weight: bolder;
+}
 a:hover, a:focus {
 	color: #666666;
 }
@@ -814,8 +817,8 @@ p.quote {
 	margin-bottom: 40px;
 	position: relative;
 	z-index: 1;
-	font-weight: 700;
-	text-transform: uppercase;
+	font-weight: 600;
+	text-align: justify;
 }
 
 
