@@ -577,7 +577,7 @@ nav.light .main-menu li.active a, nav.dark .main-menu li.active a {
 /* PARALLAX SECTION 1
 --------------------------------------------------------*/
 .bg1 {
-	background-image: url(../images/parallax/parallax1.jpg);
+	background-image: url(../images/parallax/coleta.jpg);
 }
 p.quote {
 	font-family: 'BebasNeue', sans-serif;
@@ -616,7 +616,7 @@ p.quote {
 --------------------------------------------------------*/
 	
 .bg2 {
-	background-image: url(../images/parallax/parallax2.jpg);
+	background-image: url(../images/parallax/destino.jpg);
 }
 .twitter-slider {
 	width: 85%;
@@ -684,7 +684,7 @@ p.quote {
 --------------------------------------------------------*/
 
 .bg3 {
-	background-image: url(../images/parallax/parallax3.jpg);
+	background-image: url(../images/parallax/solucoes.jpg);
 }
 .testimonial-slider {
 	position: relative;
