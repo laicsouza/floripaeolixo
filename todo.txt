@@ -1,0 +1,14 @@
+Identidade visual
+- Logo: redimensionar para algo entre 60~70 pixels de altura
+- Criar favicon só com o bonequinho
+- Escolher entre css/colors/green.css e css/colors/dark-green.css
+
+- Começar vídeo com o logo de fundo branco
+
+Outras imagens
+- Escolher imagens para serem os 'frames' dos vídeos
+- Achar símbolos no nounproject
+
+Possibilidades
+- Shortcodes: ver se tem algo interessante
+
